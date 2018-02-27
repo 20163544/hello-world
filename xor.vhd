@@ -1,3 +1,4 @@
+sveiky, mano vardas juozas ir as nzn ka darau
 -- File: xor.vhd
 library ieee;
 use ieee.std_logic_1164.all;
